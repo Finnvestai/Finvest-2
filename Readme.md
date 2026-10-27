@@ -8,7 +8,7 @@ Initial scope
 * Simulated private-market investment intents
 * Double-entry ledger architecture
 * Account and eligibility controls
-* Global-ready, compliance-first design
+* Global-ready, compliance-first design.
 
 Safety and compliance
 
